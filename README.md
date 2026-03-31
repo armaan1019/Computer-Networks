@@ -1,7 +1,8 @@
 # Computer-Networks
 Coursework from SCU covering Networks topics like TCP, UDP, pthreads.
 
-CONTENTS
+CONTENTS:
+
 Lab1: Explored functions calls versus system calls in C. In other words, open versus fopen.
 
 Lab2: Copying multiple files concurrently using pthreads. In addition, calculating RTT time to open a web page.
